@@ -27,8 +27,10 @@
         </tr>
     </table>
 </div>
+
 <br>
 
+<!-- ENGINE ROOM SECTION -->
 <h3 align="center" style="color: #000000;">⚡ THE ENGINE ROOM</h3>
 <div align="center">
     <table style="border: none; width: 100%;">
@@ -57,11 +59,13 @@
 
 <br>
 
+<!-- LIVE TELEMETRY / SNAKE SECTION -->
 <h3 align="center" style="color: #000000;">📡 LIVE TELEMETRY</h3>
 
 <div align="center">
-    <a href="https://github.com/Mr-Shoez">
-        <img src="https://github.com/Mr-Shoez/Mr-Shoez/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+    <!-- SNAKE ANIMATION: Uses the raw content from the output branch -->
+    <a href="https://github.com/Mr-Shoez/Mr-Shoez">
+        <img src="https://raw.githubusercontent.com/Mr-Shoez/Mr-Shoez/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
     </a>
 </div>
 
@@ -84,36 +88,25 @@
 
 <br>
 
-<h3 align="center" style="color: #000000;">📊 PERFORMANCE METRICS</h3>
-<div align="center">
-    <a href="https://github.com/Mr-Shoez">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mr-Shoez&show_icons=true&bg_color=e2e8f0&title_color=000000&text_color=1e293b&icon_color=008cff&hide_border=true" alt="Shoez Stats" />
-    </a>
-    <br><br>
-    <a href="https://github.com/Mr-Shoez">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Shoez&theme=transparent&hide_border=true&card_width=500&background=e2e8f0&stroke=008cff&ring=008cff&fire=008cff&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=008cff&sideLabels=1e293b&dates=64748b" alt="Streak Stats" />
-    </a>
-    <br><br>
-    <a href="https://github.com/Mr-Shoez">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Shoez&layout=compact&bg_color=e2e8f0&title_color=000000&text_color=1e293b&hide_border=true" alt="Top Languages" />
-    </a>
-</div>
-
-<br>
-
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote"/>
 </div>
 
 <br>
 
-<h3 align="center" style="color: #000000;">📰 LATEST INTEL</h3>  
+<!-- BLOG SECTION -->
+<h3 align="center" style="color: #000000;">📰 LATEST INTEL</h3>
+<br>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/LaunchPad_Studio-Visit_Site-008cff?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Button"/>
+    <a href="https://launchpadstudio.co.za">
+        <img src="https://img.shields.io/badge/LaunchPad_Studio-Visit_Site-008cff?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Button"/>
+    </a>
     <br>
     <sub style="color: #64748b;">© 2026 MOSA MOLELEKI | JOHANNESBURG</sub>
 </div>
