@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows manual run
   push:
     branches:
     - master
@@ -24,7 +24,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          palette: '{"color": ["#e2e8f0", "#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#008cff"]}'
+          # PALETTE CONFIGURATION:
+          # 1. Background: Transparent (Fits any theme)
+          # 2. Empty Cells: Dark Slate (Your brand secondary)
+          # 3-5. Activity Cells: Shades of LaunchPad Blue (#008cff)
+          palette: '{"color": ["#00000000", "#1e293b", "#004a87", "#006bb3", "#008cff"]}'
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
