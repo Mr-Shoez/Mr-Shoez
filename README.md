@@ -104,6 +104,7 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+ - Jan 8, 2026: [The &lt;span style=&quot;color: var&lpar;--brand-blue&rpar;;&quot;&gt;Load Shedding&lt;/span&gt; Penalty: Why Your Firm&#39;s Website Disappears During Power Cuts](https://launchpadstudio.co.za/posts/load-shedding-law-firm-website-penalty.html)
  - Jan 6, 2026: [Your Law Firm Is Invisible to High-Net-Worth Clients](https://launchpadstudio.co.za/posts/invisible-law-firm-high-net-worth-clients.html)<!-- BLOG-POST-LIST:END -->
 
 <br>
