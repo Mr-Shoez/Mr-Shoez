@@ -57,6 +57,33 @@
 
 <br>
 
+<h3 align="center" style="color: #000000;">📡 LIVE TELEMETRY</h3>
+
+<div align="center">
+    <a href="https://github.com/Mr-Shoez">
+        <img src="https://github.com/Mr-Shoez/Mr-Shoez/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <table style="border: none; width: 100%;">
+        <tr>
+            <td width="50%" align="center" valign="top">
+                 <img src="https://github-readme-stats.vercel.app/api?username=Mr-Shoez&show_icons=true&bg_color=e2e8f0&title_color=000000&text_color=1e293b&icon_color=008cff&hide_border=true&count_private=true&include_all_commits=true" alt="Shoez Stats" />
+            </td>
+            <td width="50%" align="center" valign="top">
+                <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Shoez&theme=transparent&hide_border=true&card_width=450&background=e2e8f0&stroke=008cff&ring=008cff&fire=008cff&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=008cff&sideLabels=1e293b&dates=64748b" alt="Streak Stats" />
+                <br><br>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Shoez&layout=compact&bg_color=e2e8f0&title_color=000000&text_color=1e293b&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
 <h3 align="center" style="color: #000000;">📊 PERFORMANCE METRICS</h3>
 <div align="center">
     <a href="https://github.com/Mr-Shoez">
