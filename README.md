@@ -1,82 +1,90 @@
-### Hey there, I'm Mosa Moleleki (aka Shoez) 👟
+<div align="center">
+    <table style="border: none; background: #e2e8f0; border-radius: 20px; width: 100%;">
+        <tr>
+            <td align="center" style="padding: 30px;">
+                <h1 style="color: #000000; font-size: 40px; margin-bottom: 0;">MOSA MOLELEKI</h1>
+                <h3 style="color: #008cff; margin-top: 5px;">FULLSTACK DEV | FOUNDER @ LAUNCHPAD STUDIO</h3>
+                <br>
+                <p style="color: #1e293b; font-size: 16px; max-width: 600px; line-height: 1.6;">
+                    I don't just write code; I engineer <b>business growth</b>. <br>
+                    Currently digitizing the South African legal sector at 
+                    <a href="https://launchpadstudio.co.za" style="color: #008cff; font-weight: bold; text-decoration: none;">LaunchPad Studio</a>.
+                </p>
+                <p>
+                    <a href="https://www.linkedin.com/in/mosa-moleleki">
+                        <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white&color=1e293b" alt="LinkedIn"/>
+                    </a>
+                    &nbsp;
+                    <a href="https://instagram.com/mr_m.molelek">
+                        <img src="https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=white&color=1e293b" alt="Instagram"/>
+                    </a>
+                    &nbsp;
+                    <a href="mailto:molelekishoez@gmail.com">
+                        <img src="https://img.shields.io/badge/Email-Contact_Me-008cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
 
-I'm a self-taught coder and first-year software development student.  
-Currently building **[Blueprint Room](https://blueprintroom.software)** — a smart website + outreach platform for freelancers and small web design agencies in South Africa.
+<h3 align="center" style="color: #000000;">⚡ THE ENGINE ROOM</h3>
+<div align="center">
+    <table style="border: none; width: 100%;">
+        <tr>
+            <td width="50%" align="center" valign="top">
+                <h4 style="color: #008cff;">MY ARSENAL (DEPLOY READY)</h4>
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+                <br>
+                <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+                <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+            </td>
+            <td width="50%" align="center" valign="top">
+                <h4 style="color: #64748b;">LOADING... (ACTIVELY LEARNING)</h4>
+                <img src="https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB" />
+                <img src="https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=node.js&logoColor=green" />
+                <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=yellow" />
+                <br>
+                <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=blue" />
+                <img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=green" />
+            </td>
+        </tr>
+    </table>
+</div>
 
----
+<br>
 
-### 🚀 What I'm working on
+<h3 align="center" style="color: #000000;">📊 PERFORMANCE METRICS</h3>
+<div align="center">
+    <a href="https://github.com/Mr-Shoez">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mr-Shoez&show_icons=true&bg_color=e2e8f0&title_color=000000&text_color=1e293b&icon_color=008cff&hide_border=true" alt="Shoez Stats" />
+    </a>
+    <br><br>
+    <a href="https://github.com/Mr-Shoez">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Shoez&theme=transparent&hide_border=true&card_width=500&background=e2e8f0&stroke=008cff&ring=008cff&fire=008cff&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=008cff&sideLabels=1e293b&dates=64748b" alt="Streak Stats" />
+    </a>
+    <br><br>
+    <a href="https://github.com/Mr-Shoez">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Shoez&layout=compact&bg_color=e2e8f0&title_color=000000&text_color=1e293b&hide_border=true" alt="Top Languages" />
+    </a>
+</div>
 
-- ✨ **Blueprint Room** – streamlining client acquisition and fast website generation for small agencies and freelancers
-- 🎓 Studying software development at Rosebank College (Diploma)
-- 🧠 Learning Java, Python, Tailwind CSS, TypeScript, and backend logic
-- 🛠️ Building solo projects to master full-stack development
+<br>
 
----
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote"/>
+</div>
 
-### 🧩 Skills I'm growing
+<br>
 
-- **Frontend:** HTML • CSS • JavaScript • React  
-- **Backend:** Node.js • MongoDB • Express (learning)  
-- **Dev Tools:** Git • GitHub • VS Code • Vite  
-- **Currently exploring:** TypeScript • AI prompts • Automation • Java
+<h3 align="center" style="color: #000000;">📰 LATEST INTEL</h3>
+<br>
 
----
-
-### 🌍 Where I'm from
-
-- 📍 Mount Fletcher, Eastern Cape
-- 🏕️ Big dreams from a small rural town
-- 🎯 Goal: Financial freedom by 30 🔥
-
-> _"Build fast. Learn faster."_ – My current motto
-
----
-
-### 🌐 Socials – Let’s Connect
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mosa%20Moleleki)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mosa%20Moleleki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mosa%20Moleleki)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mosa%20Moleleki)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:molelekishoez@gmail.com)
-
----
-
-### 💻 Tech Stack I'm actively learning
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Mr-Shoez&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mr-Shoez&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Shoez&theme=blue_navy&hide_border=false&layout=compact)
-
----
-
-### ✍️ Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Mr-Shoez&icon=2&color=1)](https://visitcount.itsvg.in)
-
-Thanks for stopping by! 👋
+<div align="center">
+    <img src="https://img.shields.io/badge/LaunchPad_Studio-Visit_Site-008cff?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Button"/>
+    <br>
+    <sub style="color: #64748b;">© 2026 MOSA MOLELEKI | JOHANNESBURG</sub>
+</div>
