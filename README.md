@@ -99,7 +99,7 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - Jan 6, 2026: [Your Law Firm Is Invisible to High-Net-Worth Clients](https://launchpadstudio.co.za/posts/invisible-law-firm-high-net-worth-clients.html)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
