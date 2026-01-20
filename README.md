@@ -104,9 +104,9 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+ - Jan 20, 2026: [Retainer Contracts vs Project Pricing: Which Model Is Killing Your Cash Flow?](https://launchpadstudio.co.za/posts/retainer-contracts-vs-project-pricing-which-model-is-killing-your-cash-flow.html)
  - Jan 16, 2026: [Conveyancing Leads Are Disappearing: Local SEO Is How You Get Them Back](https://launchpadstudio.co.za/posts/conveyancing-leads-disappearing-local-seo.html)
- - Jan 13, 2026: [LPC Code of Conduct Section 7.2: What You Can &lpar;And Cannot&rpar; Say in Your Ads](https://launchpadstudio.co.za/posts/lpc-code-of-conduct-section-7-2-what-you-can-and-cannot-say-in-your-ads.html)
- - Jan 8, 2026: [The Load Shedding Penalty: Why Your Firm&#39;s Website Disappears During Power Cuts](https://launchpadstudio.co.za/posts/load-shedding-law-firm-website-penalty.html)<!-- BLOG-POST-LIST:END -->
+ - Jan 13, 2026: [LPC Code of Conduct Section 7.2: What You Can &lpar;And Cannot&rpar; Say in Your Ads](https://launchpadstudio.co.za/posts/lpc-code-of-conduct-section-7-2-what-you-can-and-cannot-say-in-your-ads.html)<!-- BLOG-POST-LIST:END -->
 
 <br>
 
