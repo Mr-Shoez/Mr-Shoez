@@ -92,9 +92,9 @@
         <tr>
             <td align="left" style="padding: 20px 30px;">
                 <!-- BLOG-POST-LIST:START -->
+ - Jan 27, 2026: [Mobile-First Indexing: Why Google Penalizes Law Firms With Slow Sites](https://launchpadstudio.co.za/posts/mobile-first-indexing-why-google-penalizes-law-firms-with-slow-sites.html)
  - Jan 22, 2026: [Your Web Developer Won&#39;t Give You the Code. Here&#39;s What That Costs You](https://launchpadstudio.co.za/posts/your-web-developer-wont-give-you-the-code-heres-what-that-costs-you.html)
- - Jan 20, 2026: [Retainer Contracts vs Project Pricing: Which Model Is Killing Your Cash Flow?](https://launchpadstudio.co.za/posts/retainer-contracts-vs-project-pricing-which-model-is-killing-your-cash-flow.html)
- - Jan 16, 2026: [Conveyancing Leads Are Disappearing: Local SEO Is How You Get Them Back](https://launchpadstudio.co.za/posts/conveyancing-leads-disappearing-local-seo.html)<!-- BLOG-POST-LIST:END -->
+ - Jan 20, 2026: [Retainer Contracts vs Project Pricing: Which Model Is Killing Your Cash Flow?](https://launchpadstudio.co.za/posts/retainer-contracts-vs-project-pricing-which-model-is-killing-your-cash-flow.html)<!-- BLOG-POST-LIST:END -->
             </td>
         </tr>
     </table>
