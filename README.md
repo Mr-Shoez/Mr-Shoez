@@ -92,9 +92,9 @@
         <tr>
             <td align="left" style="padding: 20px 30px;">
                 <!-- BLOG-POST-LIST:START -->
- - Jan 27, 2026: [Mobile-First Indexing: Why Google Penalizes Law Firms With Slow Sites](https://launchpadstudio.co.za/posts/mobile-first-indexing-why-google-penalizes-law-firms-with-slow-sites.html)
- - Jan 22, 2026: [Your Web Developer Won&#39;t Give You the Code. Here&#39;s What That Costs You](https://launchpadstudio.co.za/posts/your-web-developer-wont-give-you-the-code-heres-what-that-costs-you.html)
- - Jan 20, 2026: [Retainer Contracts vs Project Pricing: Which Model Is Killing Your Cash Flow?](https://launchpadstudio.co.za/posts/retainer-contracts-vs-project-pricing-which-model-is-killing-your-cash-flow.html)<!-- BLOG-POST-LIST:END -->
+ - Feb 5, 2026: [LinkedIn Algorithm Changes in 2025: What Law Firms Got Wrong](https://launchpadstudio.co.za/posts/linkedin-algorithm-changes-2025-what-law-firms-got-wrong.html)
+ - Feb 3, 2026: [RAF Payouts Are Delayed. Here&#39;s How to Protect Your Cash Flow While You Wait](https://launchpadstudio.co.za/posts/raf-payouts-delayed-cash-flow-protection.html)
+ - Jan 27, 2026: [Mobile-First Indexing: Why Google Penalizes Law Firms With Slow Sites](https://launchpadstudio.co.za/posts/mobile-first-indexing-why-google-penalizes-law-firms-with-slow-sites.html)<!-- BLOG-POST-LIST:END -->
             </td>
         </tr>
     </table>
