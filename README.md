@@ -92,9 +92,9 @@
         <tr>
             <td align="left" style="padding: 20px 30px;">
                 <!-- BLOG-POST-LIST:START -->
+ - Feb 10, 2026: [POPIA Email Marketing: The 3 Compliance Mistakes That Cost R10 Million](https://launchpadstudio.co.za/posts/popia-email-marketing-compliance-mistakes.html)
  - Feb 5, 2026: [LinkedIn Algorithm Changes in 2025: What Law Firms Got Wrong](https://launchpadstudio.co.za/posts/linkedin-algorithm-changes-2025-what-law-firms-got-wrong.html)
- - Feb 3, 2026: [RAF Payouts Are Delayed. Here&#39;s How to Protect Your Cash Flow While You Wait](https://launchpadstudio.co.za/posts/raf-payouts-delayed-cash-flow-protection.html)
- - Jan 27, 2026: [Mobile-First Indexing: Why Google Penalizes Law Firms With Slow Sites](https://launchpadstudio.co.za/posts/mobile-first-indexing-why-google-penalizes-law-firms-with-slow-sites.html)<!-- BLOG-POST-LIST:END -->
+ - Feb 3, 2026: [RAF Payouts Are Delayed. Here&#39;s How to Protect Your Cash Flow While You Wait](https://launchpadstudio.co.za/posts/raf-payouts-delayed-cash-flow-protection.html)<!-- BLOG-POST-LIST:END -->
             </td>
         </tr>
     </table>
