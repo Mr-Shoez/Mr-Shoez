@@ -92,9 +92,9 @@
         <tr>
             <td align="left" style="padding: 20px 30px;">
                 <!-- BLOG-POST-LIST:START -->
- - Feb 10, 2026: [POPIA Email Marketing: The 3 Compliance Mistakes That Cost R10 Million](https://launchpadstudio.co.za/posts/popia-email-marketing-compliance-mistakes.html)
- - Feb 5, 2026: [Why Your Competitor&#39;s Website Loads in 2.5 Seconds &lpar;And Why It Matters&rpar;](https://launchpadstudio.co.za/posts/why-your-competitors-website-loads-in-2-5-seconds-and-why-it-matters.html)
- - Feb 5, 2026: [LinkedIn Algorithm Changes in 2025: What Law Firms Got Wrong](https://launchpadstudio.co.za/posts/linkedin-algorithm-changes-2025-what-law-firms-got-wrong.html)<!-- BLOG-POST-LIST:END -->
+ - Feb 19, 2026: [How to Audit Your Website for LPC Compliance &lpar;Before the LPC Audits You&rpar;](https://launchpadstudio.co.za/posts/how-to-audit-your-website-for-lpc-compliance.html)
+ - Feb 17, 2026: [Johannesburg: The Most Competitive Legal Market in SA. Here&#39;s How to Stand Out](https://launchpadstudio.co.za/posts/johannesburg-competitive-legal-market-stand-out.html)
+ - Feb 10, 2026: [POPIA Email Marketing: The 3 Compliance Mistakes That Cost R10 Million](https://launchpadstudio.co.za/posts/popia-email-marketing-compliance-mistakes.html)<!-- BLOG-POST-LIST:END -->
             </td>
         </tr>
     </table>
