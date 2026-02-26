@@ -93,9 +93,7 @@
             <td align="left" style="padding: 20px 30px;">
                 <!-- BLOG-POST-LIST:START -->
  - Feb 24, 2026: [Asset Ownership Matters: Can You Leave Your Web Agency If You Want To?](https://launchpadstudio.co.za/posts/asset-ownership-matters-can-you-leave-your-web-agency.html)
-                <br>
  - Feb 19, 2026: [How to Audit Your Website for LPC Compliance &lpar;Before the LPC Audits You&rpar;](https://launchpadstudio.co.za/posts/how-to-audit-your-website-for-lpc-compliance.html)
-                <br>
  - Feb 17, 2026: [Johannesburg: The Most Competitive Legal Market in SA. Here&#39;s How to Stand Out](https://launchpadstudio.co.za/posts/johannesburg-competitive-legal-market-stand-out.html)<!-- BLOG-POST-LIST:END -->
             </td>
         </tr>
