@@ -9,12 +9,10 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4 # Updated to v4 to resolve Node.js deprecation
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "3"
-          # This MUST match the live URL we tested in Step 2
           feed_list: "https://launchpadstudio.co.za/rss.xml" 
-          # Custom formatting to look clean
           template: "$newline - $date: [$title]($url)"
           date_format: "mmm d, yyyy"
