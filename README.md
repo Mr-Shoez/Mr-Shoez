@@ -98,6 +98,6 @@
             </td>
         </tr>
     </table>
-</div align="center">
+</div>
     <sub style="color: #64748b;">© 2026 MOSA MOLELEKI | JOHANNESBURG</sub>
 </div>
