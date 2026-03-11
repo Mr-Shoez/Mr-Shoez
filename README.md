@@ -60,7 +60,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=Mr-S-U-D-O&show_icons=true&theme=transparent&hide_border=true&title_color=008cff&text_color=ffffff&icon_color=008cff&count_private=true&include_all_commits=true" alt="Mr-S-U-D-O Github Stats" />
                 <br>
                 <!-- Trophies -->
-                <img src="https://github-profile-trophy.vercel.app/?username=Mr-S-U-D-O&theme=slateorange&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
+                <img src="https://github-profile-trophy.vercel.app/?username=Mr-S-U-D-O&theme=slateorange&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Mr-S-U-D-O Trophies"/>
             </td>
             <td width="50%" align="center" valign="middle">
                 <!-- Streak -->
