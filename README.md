@@ -57,17 +57,17 @@
         <tr>
             <td width="50%" align="center" valign="middle">
                 <!-- Main Stats -->
-                <img src="https://github-readme-stats.vercel.app/api?username=Mr-Shoez&show_icons=true&theme=transparent&hide_border=true&title_color=008cff&text_color=ffffff&icon_color=008cff&count_private=true&include_all_commits=true" alt="Shoez Github Stats" />
+                <img src="https://github-readme-stats.vercel.app/api?username=Mr-S-U-D-O&show_icons=true&theme=transparent&hide_border=true&title_color=008cff&text_color=ffffff&icon_color=008cff&count_private=true&include_all_commits=true" alt="Mr-S-U-D-O Github Stats" />
                 <br>
                 <!-- Trophies -->
-                <img src="https://github-profile-trophy.vercel.app/?username=Mr-Shoez&theme=slateorange&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
+                <img src="https://github-profile-trophy.vercel.app/?username=Mr-S-U-D-O&theme=slateorange&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
             </td>
             <td width="50%" align="center" valign="middle">
                 <!-- Streak -->
-                <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-Shoez&theme=transparent&hide_border=true&card_width=400&stroke=008cff&ring=008cff&fire=008cff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=008cff&sideLabels=008cff&dates=94a3b8" alt="Streak Stats" />
+                <img src="https://nirzak-streak-stats.vercel.app/?user=Mr-S-U-D-O&theme=transparent&hide_border=true&card_width=400&stroke=008cff&ring=008cff&fire=008cff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=008cff&sideLabels=008cff&dates=94a3b8" alt="Streak Stats" />
                 <br>
                 <!-- Languages -->
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Shoez&layout=compact&theme=transparent&hide_border=true&title_color=008cff&text_color=ffffff" alt="Top Languages" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-S-U-D-O&layout=compact&theme=transparent&hide_border=true&title_color=008cff&text_color=ffffff" alt="Top Languages" />
             </td>
         </tr>
     </table>
@@ -78,8 +78,8 @@
 <!-- LIVE TELEMETRY / SNAKE SECTION -->
 <h3 align="center" style="color: #000000;">📡 LIVE TELEMETRY 📡</h3>
 <div align="center">
-    <a href="https://github.com/Mr-Shoez/Mr-Shoez">
-        <img src="https://raw.githubusercontent.com/Mr-Shoez/Mr-Shoez/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+    <a href="https://github.com/Mr-S-U-D-O/Mr-S-U-D-O">
+        <img src="https://raw.githubusercontent.com/Mr-S-U-D-O/Mr-S-U-D-O/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
     </a>
 </div>
 
@@ -99,5 +99,5 @@
         </tr>
     </table>
 </div>
-    <sub style="color: #64748b;">© 2026 MOSA MOLELEKI | JOHANNESBURG</sub>
+    <sub align="center" style="color: #64748b;">© 2026 MOSA MOLELEKI | JOHANNESBURG</sub>
 </div>
